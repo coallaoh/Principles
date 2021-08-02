@@ -12,7 +12,7 @@ I hope to clearly communicate the underlying reasoning behind my arguments, acti
 
 I credit the idea of organising the principles to Ray Dalio and his book, [_Principles_](https://www.principles.com/). Ray, likewise, has introduced a systematic approach to life: let principles be crystallised out of the myriads of trial and error in life. Huge respect for his scientific-minded approach to his own life and work. I have also inherited some of my principles from his.
 
-I have organised the principles according to (1) ones that can be applied to my personal life and (2) ones that relate to the research life, taking a hint from Ray’s organisation in Principles. Unlike Ray, who has put equal weight on every principle, I will put a “status label” for each principle item:
+I have organised the principles according to (1) ones that can be applied to my personal life and (2) ones that relate to the research life, taking a hint from Ray’s organisation in his book. Unlike Ray, who has put equal weight on every principle, I will put a “status label” for each principle item:
 
 - **Conjecture**: Principles that are not tested with my own experience yet. They include second-hand experiences and pieces of advice from trustable, experienced people.
 - **Lemma**: Conjectures or newly introduced principles that have been verified through my own experiences.
