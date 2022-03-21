@@ -20,6 +20,6 @@ This document serves three purposes.
 
 I credit the idea of organising the principles to Ray Dalio and his book, *[Principles](https://www.principles.com/)*. Ray, likewise, has introduced a systematic approach to life: let principles be crystallised out of the myriads of trial and error in life. Huge respect for his scientific-minded approach to his own life and work. I have also inherited some of my principles from his.
 
-Goals
+[Goals](goals)
 
 Principles
