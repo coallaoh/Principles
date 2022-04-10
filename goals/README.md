@@ -7,7 +7,7 @@
     - Love to my family, friends, and co-workers.
     - I want to succeed, without leaving others behind.
 - I wish to live three professional lives - as a researcher and inventor (age 30-50), as an investor (age 50-70), and as a writer and artist (age 70-90).
-- Researcher and investor (age 30-50)
+- Researcher and inventor (age 30-50)
     - It is an exciting time with the emergence of computer technologies that automatise and speed up tedious tasks. I wish to ride this big tide and be part of the state of art.
     - I desire to guide the field, bring new perspectives to the problems, and invent solutions.
     - I want to learn how to turn technology into products that change people’s lives.
@@ -26,7 +26,7 @@
     - I hope to share such work with generations ahead.
 - Stay fit throughout.
 
-**20-years (age 30-50): researcher and inventor**
+**20-year goal (age 30-50): researcher and inventor**
 
 - Researcher and inventor.
     - Get AI to the next level.
