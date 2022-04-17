@@ -2,7 +2,7 @@
 
 Author: Seong Joon Oh
 
-Update: 21 March 2022
+Update: 17 April 2022
 
 “What” and “how”. These are the two questions that shape my life. What do I want to do with my life? How do I get there?
 
@@ -22,4 +22,4 @@ I credit the idea of organising the principles to Ray Dalio and his book, *[Pri
 
 [Goals](goals)
 
-Principles
+[Principles](principles)
