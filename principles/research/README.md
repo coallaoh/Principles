@@ -24,7 +24,9 @@ Apart from those commonsense rules, one must conform to the regulations and poli
 
 Academic integrity forms the fundamental base of your academic reputation. Aim for **never losing it** throughout your academic career. Once you lose your reputation, it is nearly impossible to recover.
 
-## Being Critical
+## Communication, collaboration, and argumentation
+
+Research involves lots of communication, collaboration, and argumentation. There are many common pitfalls that could hinder the research progress and effective exchange of ideas and opinions. I summarise them below.
 
 ### Question the authority
 
@@ -50,15 +52,26 @@ Progress is impossible without criticism. The first attempt we make is almost al
 
 One needs to clearly separate the assessment on the work from the one on the person who did it. One should be very careful with the assessment on the person because that leaves a strong memory and impact on the person’s life. But it is okay to criticize their work directly, quickly, and even brutally, as long as we share the principle that the critique on one’s work is separate from the critique on the person. We know that even great people make shit, especially for their first attempts. It is our duty to let them quickly go beyond that state by being honest.
 
-## Being Optimistic
-
 ### Open-mindedness
 
-### Developing insights into a product
+While it is crucial as scientists to have critical views, we should be careful not to be harsh and cynical on everything. 
+
+One crucial occasion when we must refrain from being critical is at the inception stage of an idea. As researchers, we make things that lack the right words and concepts yet. It’s often challenging to convince the audience of one's new great idea because they are bound to existing words and concepts, which in turn bound the audience's imagination to existing things and stuff. Great ideas can sound boring and familiar at first.
+
+When talking about exciting new research ideas, our basic attitude shall be welcoming, curious, and forgiving. 
+- **Welcoming**: Do not neglect anyone who comes to you with new insights and ideas, as much as your situation allows.
+- **Curious**: Assume that we do not fully understand the marvellous insights hidden in the person in front of you. It is a human instinct to attach a familiar label to a novel idea; fight that instinct. Refrain from saying “oh I know what you’re talking about”.
+- **Relaxed**: Do not demand each other to use more concrete language and mathematical formulation to describe the idea. They can come later. We need to acknowledge the fundamental limitations of language as the container for great ideas. 
+
+You can help the other person formulate the idea into language and mathematics. However, you need to make it clear that you are only suggesting to help the formulation, not criticising or judging it yet. You need to continuously synchronise with the person if your suggested formulation agrees with the marvellous insights hidden in the other person. Be careful because this "help" may also kill the potentially great idea, if not done right.
 
 ### On expertise, respect, and trust
 
-## How to be critical and optimistic at the same time
+
+## Risk management
+
+### Developing insights into a product
+
 
 ## Personal Tips
 
