@@ -1,6 +1,6 @@
 # Principles for Research
 
-Research is about dealing with uncertainty. It is about inventing ideas and methods that have not existed before. You are never sure if your ideas and methods will work out in a month, in a year, or in a decade. Sometimes, you will need to make a radical viewpoint that goes against the majority. You do not know whether and when people will start listen to you.
+Research is about dealing with uncertainty. It is about inventing ideas and methods that have not existed before. You are never sure if your ideas and methods will work out in a month, in a year, or in a decade. Sometimes, you will need to make a radical viewpoint that goes against the majority. You do not know whether and when people will start to listen to you.
 
 A good approach to dealing with uncertainties is to introduce “anchors”. I have my own set of principles for research that provide a good prior for anchoring my approach to the uncertainties. They provide the rule-of-thumb guidance on the strategy to tackle research problems and the effective mindset for building collaborations with others.
 
