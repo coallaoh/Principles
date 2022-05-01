@@ -2,8 +2,6 @@
 
 Author: Seong Joon Oh
 
-Update: 17 April 2022
-
 “What” and “how”. These are the two questions that shape my life. What do I want to do with my life? How do I get there?
 
 The *goals* part answers the “what”. There are packages of projects that I wish to achieve in my lifetime. Life is short and limited, so I had to shortlist them carefully.
