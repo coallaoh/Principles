@@ -81,12 +81,42 @@ Side note: I believe a PhD program is a good opportunity for a student to acquir
 
 A critical mind must be the default mode for a researcher because we strive for the truth and progress. At the same time, we need to be aware of the downside of excessive criticism. It can kill ideas and slow down innovation. I can't build a manual for the "right" amount of criticism in every possible individual case. One will need to rely on the best guess and adjust their degrees of criticism on the fly. It is challenging indeed. However, I believe one will get better at this over time, as long as one is aware of the danger in both extremes and do their best to keep the balance.
 
-## Risk management
 
-### Developing insights into a product
+
+## Towards low-risk, high-return research
+
+In 2015, at the beginning of my research career, I barely knew how to handle uncertainties and resulting risks. I was constantly worried that I need to make the next experiment work out. My first paper was a lucky one because my reproduction of a baseline method outperformed the original results without special tricks. After this paper, I was under great pressure that I need to replicate the luck. Indeed, trying to replicate luck is the worst way to deal with uncertainty, but I didn't know other ways then.
+
+As of 2022, I have led and participated in more than 20 successful research projects. Along the way, I have learned some skills for producing stable and predictable research outputs, while not significantly compromising research impact and venturesomeness. I will share them below.
+
+### If a problem is too complex, break it down
+
+It is often impractical to throw solutions at a complex problem, hoping that one of them will work out. This is a typical example of relying on your luck. Indeed, if you have an understanding of the underlying mechanisms for the complex problem, this method may work out. If you do not, then it is not advisable to tackle the problem in one go.
+
+For any problem P, we can always find a sub-problem of P that can be solved arbitrarily easily. Break a complex problem down into simpler sub-problems. Break down the sub-problems recursively until they become easy enough to come up with sub-solutions. In the most extreme case, the sub-problem will become outright trivial (and thus solvable). A less rigorous intuition around the Intermediate Value Theorem tells us that there must be a sub-problem somewhere in the middle that is easy enough for a solution.
+
+An example from AI research. Instead of tackling a problem pertaining to a large-scale, real-world dataset like ImageNet (high-resolution images of natural scenes taken with cameras), you set up the problem with toy datasets like MNIST (low-resolution black-and-white handwritten digits). If your solution doesn't work on MNIST, then there is no way your solution will work at the ImageNet-scale. If it works on MNIST, then you finally go beyond MNIST and look for other remaining challenges.
+
+The advantage of tackling a smaller problem is that you will understand the mechanisms much better. By designing the sub-problems such that they cover different types of challenges, we learn which solution is particularly effective for which challenge. The resulting insights will later help tackle the original complex problem.
+
+One may worry that tackling a smaller problem is a low-risk, low-return strategy. I do not believe so. The impact of solving a smaller problem can be surprisingly high when the sub-problem is a common issue for multiple complex problems. By solving the common problem, you provide a common tool for multiple applications.
+
+Attempting to address a complex problem at once increases the risk of spending time and money without any return. I believe a safe and quick way to solve it is to address its sub-problems sequentially and understand the mechanisms on the way.
+
+### Understand first, then solve
+
+### Do not follow a dead end
+
+### Law of conservation of information
+
+### Do not wait for the most clever idea
+
+### Hedge the bets with a research portfolio
+
+
 
 ## PhD program
 
-## Personal Tips
+## Reading, writing, and drawing
 
-## More to come
+## Other resources
