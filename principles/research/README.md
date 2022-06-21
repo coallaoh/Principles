@@ -89,7 +89,7 @@ In 2015, at the beginning of my research career, I barely knew how to handle unc
 
 As of 2022, I have led and participated in more than 20 successful research projects. Along the way, I have learned some skills for producing stable and predictable research outputs, while not significantly compromising research impact and venturesomeness. I will share them below.
 
-### If a problem is too complex, break it down
+### If the problem is too complex, break it down
 
 It is often impractical to throw solutions at a complex problem, hoping that one of them will work out. This is a typical example of relying on your luck. Indeed, if you have an understanding of the underlying mechanisms for the complex problem, this method may work out. If you do not, then it is not advisable to tackle the problem in one go.
 
@@ -105,7 +105,29 @@ Attempting to address a complex problem at once increases the risk of spending t
 
 ### Understand first, then solve
 
+It is difficult to come up with a solution without understanding the problem. This is quite obvious and I believe many will already agree. But what I *really* mean by “understand first” is that one should be ready to invest a substantial amount of time (perhaps even a full project) dedicated to understanding the problem. It’s not enough to *think hard* about the problem. One should really come up with dedicated hypotheses and experiments just for the sake of understanding the problem. 
+
+From the risk-management perspective, such “understanding first” projects are often safer bets. If the research question and the problem themselves are interesting, the impact of your work do not depend on the outcome of your experiments - both the observations “A<B” and “B<A” are interesting and impactful. The paper on shape-texture bias in ImageNet-trained models [a] is a good example. The paper highlights a critical difference between humans’ and CNNs’ processing of visual inputs. By formulating an interesting question, you can let such “understanding first” projects enjoy a reduced risk compared to “solution first” projects that often require a state of the art result. 
+
+Such “understand first” projects may also lead to a greater impact, compared to a “solution first” work. If one shares nice insights early on, researchers in the relevant community will parallelise the subsequent efforts to come up with solutions. For example, [a] has led to a number of methods addressing the shape-texture bias in ImageNet models in just a couple of years.
+
+[a] Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. ICLR 2018.
+
 ### Do not follow a dead end
+
+There are research topics that are popular today but are likely to face a dead end in the long run. Dead ends come in different shapes: 
+
+- trying to solve an impossible problem;
+- improvements in infrastructure (e.g. data and compute) render the problem less relevant; or
+- a strong technology may easily supersede the current art.
+
+Contributions to a dead-end technology are not as bad as it sounds. There can be immense short-term benefits to the problems of today; that is why the such topics are popular in the first place. One could be productive within such dead-end topics in the short run, given that a large number of people are contributing to the community. Even after the technology becomes irrelevant, some technological byproducts may prove useful for other topics. Researchers may also be acknowledged for their transferable skills and experience; working on a dead-end topic does not imply a dead end for one's career.
+
+Nonetheless, my personal preference is to pursue a long-term research impact. I prefer research topics that are less likely to run into a dead end. At least, there must be an exit strategy even if they do. Such topics have the following patterns:
+
+- instead of tackling an impossible problem, you look into the minimal-cost methods to make the problem possible again;
+- improved infrastructure will further necessitate the technology in question; and
+- developed technologies are sufficiently unique and cannot easily be superseded by subsequent developments.
 
 ### Law of conservation of information
 
