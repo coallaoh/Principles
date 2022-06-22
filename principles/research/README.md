@@ -129,16 +129,24 @@ Nonetheless, my personal preference is to pursue a long-term research impact. I 
 - improved infrastructure will further necessitate the technology in question; and
 - developed technologies are sufficiently unique and cannot easily be superseded by subsequent developments.
 
-### Law of conservation of information
+### No-creation principle for information
 
-### Do not wait for the most clever idea
+A typical dead-end research topic is one where you try to get more information from a system than what you give as input. I have a strong belief that this is fundamentally impossible. I call this the “no-creation principle for information”. This is analogous to the law of conservation of energy in physics: a closed system cannot create energy on its own.
+
+Exactly what do the “information” and “closed system” mean in a machine learning context? I will provide a hand-wavy description for now. I hope to provide a more rigorous definition and claim in the future. A machine learning algorithm takes a set of observations (training data) and learning recipes (e.g. hyperparameters and design choices) as input and returns a model as an output. My version of the no-creation principle is that “a model does not contain more information than the sum of information in observations and learning recipes”. That is, your model’s performance on the test set is bounded from above by the amount of information given during training. 
+
+This sounds obvious, but attempts to break this rule are seen from time to time in machine learning. One such example is the Weakly-Supervised Object Localisation (WSOL) task. The aim is to train a model that *knows* how to differentiate foreground and background pixels while only feeding it with global image labels (e.g. whether a cat is in the image or not). Generally, there may be spurious background correlations that are stronger than the foreground features (e.g. duck’s feet are less visible in duck images than water features). Thus, the training dataset generally lacks sufficient information to discriminate between foreground and background features. And yet, researchers aim to extract such information from a system that does not contain it [b]. This is one of the many examples in machine learning where the no-creation principle is challenged. I try not to pursue such research topics unless the aim is to fix the issue.
+
+[b] Junsuk Choe, Seong Joon Oh, Seungho Lee, Sanghyuk Chun, Zeynep Akata, Hyunjung Shim. Evaluating Weakly Supervised Object Localization Methods Right. CVPR 2020.
 
 ### Hedge the bets with a research portfolio
 
+Risk management consists of two components: (1) focus your resources on low-risk, high-return projects as much as possible (see above) and (2) deal with the remaining uncertainty by hedging your bets. Depending on your seniority, you may have different capacities to run projects in parallel. A PhD student will probably have only 1 or 2 threads (one thread == capacity for one project). It is important for them to choose low-risk, high-return topics to ensure more consistent research performances. For a postdoc, you may have 2-5 threads in parallel. That already lets you diversify your research portfolio. 
 
+### Everything will be alright
 
-## PhD program
+So far, I talked about ways to manage risks in research and keep things under control. But the truth is: you can’t achieve zero risk — and that’s fine. 
 
-## Reading, writing, and drawing
+I personally find it hard to live with unpredictability, but I learned that this is inevitable in research. However hard I plan ahead, there will most likely be unpredicted outcomes that will ask me to improvise. Eventually, the final research outputs will be composed less of the clever initial idea and more of the improvisations and hacks in the course of the project.
 
-## Other resources
+Such improvisations cannot be prepared ahead of time. I believe the best way to learn to improvise is to frequently put yourself on the spot and force yourself to improvise. I suggest jumping into your project and getting your hands dirty as soon as the basic risk management principles above are considered. I can’t explain all the mysterious mechanisms behind how the remaining uncertainties in research get resolved. But over years, I have gained confidence that I will eventually figure it out, either by myself or with help of others. I have seen many others doing the same. Everything will be alright for you too.
