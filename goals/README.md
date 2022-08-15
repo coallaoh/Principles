@@ -56,6 +56,7 @@
     - Start the new field and lead the field.
     - Continuously follow up the state of the art.
     - Work closely with students and postdocs to write papers regularly.
+    - Teach a relevant course & seminar.
 - Reputation as a key contributor to ML and AI.
     - One oral paper per year.
 - Leadership experience (running an organisation).
@@ -77,6 +78,7 @@
     - One oral paper at a top-tier conference.
 - Expertise on STAI
     - Do not let the reading list queue beyond 20 items.
+    - Teach a course on "Trustworthy ML".
 - Advising
     - 2 hours per week to talk to each student.
     - 1 hour per week per student to think about their research & career.
