@@ -26,7 +26,7 @@
     - I hope to share such work with generations ahead.
 - Stay fit throughout.
 
-**20-year goal (age 30-50): researcher and inventor**
+**20-year goal (2022-2042): researcher and inventor**
 
 - Researcher and inventor.
     - Get AI to the next level.
@@ -42,9 +42,9 @@
     - Collect “sufficient amount” of personal equity.
 - Stay fit.
 
-**5-year goal (STAI @ University of Tübingen)**
+**5-year goal (2022-2027)**
 
-- Get AI to the next level: Scalable Trustworthy AI (STAI)
+- Get AI to the next level: Scalable Trustworthy AI (STAI) @ University of Tübingen
     - People started to care about the trustworthiness of AI.
     - But the techniques are, by and large, being verified at a smaller scale.
     - How to bridge the gap between the large-scale needs and the current trustworthiness technology?
@@ -67,20 +67,53 @@
     - Making policies and resolving conflicts.
 - Stay fit.
 
-**1-year goal (2022)**
+**1-year goal (2023)**
 
+- Manage the Scalable Trustworthy AI (STAI) group.
+    - Recruit 1 PhD student and 1 postdoc.
+    - Manage group activities like reading groups, seminars, retreats, and social events.
+    - Introduce a tie between STAI group and the Naver project.
+- Papers
+    - Make 5 oral-quality submissions on STAI.
+    - 2 groundbreaking research outputs from the Naver project.
+- Advising
+    - Keep the average time to first paper below 1 year, without any shortcuts like writing the whole paper for the students.
+    - 1 hour per week per student to think about their research & career.
+- PR and teaching
+    - Give 5 invited talks on STAI.
+    - Organise 2 international events (e.g. workshops) related to STAI.
+    - Keep teaching a course on "Trustworthy ML".
+- Stay fit: Run (2/week) and do morning routines (every day).
+
+<details>
+  <summary>2022 goals</summary>
+  
 - Build a lab on Scalable Trustworthy AI (STAI).
     - Recruit 2 PhD students and 1 postdoc (research scientist).
+        - 3 PhD students. Found a research scientist collaborator for the Naver project.
     - Build automatisation tools and systems for the research lab.
+        - Notion page, web page, Slack, ...
     - Secure funding for the large-scale trustworthy AI from Naver.
+        - Funding secured for the Naver project.
 - Papers
     - Make 3 key submissions on STAI with existing collaborators.
+        - There was only one key submission.
     - One oral paper at a top-tier conference.
+        - No oral paper. There's not so much one could do about this. What's important is to publish papers that are above my own research criteria.
 - Expertise on STAI
     - Do not let the reading list queue beyond 20 items.
+        - It went far beyond 20 items. Not a good measure though.
     - Teach a course on "Trustworthy ML".
+        - Yes: https://scalabletrustworthyai.github.io/courses/tml_winter_2223/.
 - Advising
     - 2 hours per week to talk to each student.
+        - 1 hour is often sufficient for individual meetings. This is also fulfilled through group meetings and lunch. Setting a quantitative goal is perhaps not a good idea.
     - 1 hour per week per student to think about their research & career.
+        - Often fulfilled through reading recent papers on their topics. I feel the need to spend more time on this.
     - Get the students and postdoc ready to write a paper towards ICCV 2023, ICML 2023, or the likes.
+        - This is hard. I'm studying the best way to speed up the time-to-first-paper as well as the actual acquisition of research skills that are going to be helpful for efficient research beyond the first paper.
 - Stay fit: Tennis (1 hour x 2 / week), Run (5 km in 30 min x 2 / week), Yoga (30 minutes x 2 / week).
+    - I like tennis, but the courts are often only available in Summer in Germany. Running is always good. I don't enjoy Yoga. 
+    - I'm staying fit.
+    
+</details>
