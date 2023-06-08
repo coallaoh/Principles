@@ -15,9 +15,9 @@ When I come across an individual with a doctorate, I hold specific expectations 
 
 An effective PhD program should empower students to:
 
-a. Cultivate essential research management skills.
-b. Acquire expertise in their chosen field.
-c. Contribute to and take leadership roles within a research community.
+- Cultivate essential research management skills.
+- Acquire expertise in their chosen field.
+- Contribute to and take leadership roles within a research community.
 
 
 ### 1-a. Research management
@@ -31,9 +31,9 @@ A crucial skill for a researcher is to effectively design and execute the lifecy
 - Summarising and interpreting the results;
 - Presenting the research outcomes.
 
-Minimum: Independently manage one's own research project.
+**Minimum**: Independently manage one's own research project.
 
-Ideal: Expertly oversee multiple research projects by delegating tasks to junior researchers.
+**Ideal**: Expertly oversee multiple research projects by delegating tasks to junior researchers.
 
 
 
@@ -45,9 +45,9 @@ Drawing inspiration from Ray Dalio's concept of "believable people," I define ex
 
 In the context of machine learning research, a person can be considered an expert if they have served as the first author for at least three successful research projects. As the main planner, primary coder, and primary writer for respective conference papers, they have demonstrated their competence. Additionally, they must be capable of explaining the fundamental principles and mechanisms behind their research contributions.
 
-Minimum: Three first-author conference papers published in top-tier venues or their equivalent. The ability to articulate both the high-level story and technical details is essential.
+**Minimum**: Three first-author conference papers published in top-tier venues or their equivalent. The ability to articulate both the high-level story and technical details is essential.
 
-Ideal: A more extensive publication record and compelling narratives to support their accomplishments.
+**Ideal**: A more extensive publication record and compelling narratives to support their accomplishments.
 
 
 
@@ -57,9 +57,9 @@ A competent researcher makes valuable contributions through individual research 
 
 The research community greatly benefits from such leadership. These exceptional individuals possess the ability to identify and address unsolved problems. To achieve this, they must be willing to defy prevailing trends, challenge conventional wisdom, and venture into unexplored territory.
 
-Minimum: Proficiently present, communicate, and disseminate their own research contributions.
+**Minimum**: Proficiently present, communicate, and disseminate their own research contributions.
 
-Ideal: Pave the way for a new research field, spearhead a paradigm shift in thinking, and attract fellow researchers to engage with the problems they are tackling.
+**Ideal**: Pave the way for a new research field, spearhead a paradigm shift in thinking, and attract fellow researchers to engage with the problems they are tackling.
 
 
 
