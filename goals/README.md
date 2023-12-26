@@ -54,7 +54,7 @@
     - Automatisation and efficiency for organising the team.
 - Build expertise in STAI.
     - Start the new field and lead the field.
-    - Continuously follow up the state of the art.
+    - Continuously follow up on the state of the art.
     - Work closely with students and postdocs to write papers regularly.
     - Teach a relevant course & seminar.
 - Reputation as a key contributor to ML and AI.
@@ -67,23 +67,59 @@
     - Making policies and resolving conflicts.
 - Stay fit.
 
-**1-year goal (2023)**
+**1-year goal (2024)**
 
 - Manage the Scalable Trustworthy AI (STAI) group.
-    - Recruit 1 PhD student and 1 postdoc.
+    - Recruit XX PhD students and XX postdoc.
     - Manage group activities like reading groups, seminars, retreats, and social events.
-    - Introduce a tie between STAI group and the Naver project.
+    - Make sure everyone is healthy.
 - Papers
     - Make 5 oral-quality submissions on STAI.
-    - 2 groundbreaking research outputs from the Naver project.
 - Advising
     - Keep the average time to first paper below 1 year, without any shortcuts like writing the whole paper for the students.
     - 1 hour per week per student to think about their research & career.
+- Business
+    - Funding for ResearchTrend.AI.
+    - Hire XX engineers.
+    - Attract XX users.
+- PR and teaching
+    - Organise 2 international events (e.g. workshops) related to STAI.
+    - Share ideas for data-centric trustworthy ML through external activities (social media, talks, etc.).
+- Baby
+- Stay fit: Walk every day (2 hours/day) and start playing Tennis.
+
+<details>
+  <summary>2023 goals</summary>
+
+- Manage the Scalable Trustworthy AI (STAI) group.
+    - Recruit 1 PhD student and 1 postdoc.
+        - Failed to recruit postdoc for the STAI group.
+    - Manage group activities like reading groups, seminars, retreats, and social events.
+        - We had reading groups, retreats, and some social events.
+    - Introduce a tie between STAI group and the Naver project.
+        - Not achieved yet. Thinking about possibilities to let Naver be involved in Tübingen.
+- Papers
+    - Make 5 oral-quality submissions on STAI.
+        - This was an ambitious goal. I'd score 3/5. 
+    - 2 groundbreaking research outputs from the Naver project.
+        - There was one cool research output. Score: 1/5.
+- Advising
+    - Keep the average time to first paper below 1 year, without any shortcuts like writing the whole paper for the students.
+        - Not many samples to take the average yet. Will maintain this goal next year.
+    - 1 hour per week per student to think about their research & career.
+        - Not achieved.
 - PR and teaching
     - Give 5 invited talks on STAI.
+        - Done.
     - Organise 2 international events (e.g. workshops) related to STAI.
+        - Not done at all.
     - Keep teaching a course on "Trustworthy ML".
+        - https://scalabletrustworthyai.github.io/courses/tml_winter_2324/.
 - Stay fit: Run (2/week) and do morning routines (every day).
+    - 50% done. Was difficult to keep doing this all the time.
+- Baby: was not part of the goals, but Shana took the majority of my daytime, especially between April and October 2023.
+
+</details>
 
 <details>
   <summary>2022 goals</summary>
