@@ -145,14 +145,24 @@ This sounds obvious, but attempts to break this rule are seen from time to time 
 
 ### 3-e. Research strategy: *Always staying close to perfect performance*
 
-![Asset 1](https://github.com/user-attachments/assets/2927962d-5ce3-45b7-a84a-6e4489bcfc4d)
+<br>
+
+<img src="https://github.com/user-attachments/assets/67b5e4c4-92ad-4ed2-bdbc-275dac11c49a" width="600"/>
+
+<br>
+<br>
 
 Many students, once they start their PhD, aim to tackle very challenging problems. They often have the ambition to raise a challenging benchmark accuracy from 20% to 90% by the end of their studies. However, this approach is very risky for several reasons:
 
 - We often lack knowledge of the theoretical upper limit. In other words, we don’t know the success criterion. When is it time to stop improving and celebrate?
 - A single idea is unlikely to achieve the target. Reaching a high level of performance will require a sequence of ideas. However, combining ideas in complex ways often leads to diminishing returns, making it difficult to reach the intended goal.
 
-![Asset 3](https://github.com/user-attachments/assets/2b8533a4-9e6f-400a-9007-16a50346e6c5)
+<br>
+
+<img src="https://github.com/user-attachments/assets/ea83ea04-a4e1-4770-abd8-f4c3b390eebb" width="600"/>
+
+<br>
+<br>
 
 Instead, I propose a strategy of *always staying close to perfect performance*.
 
@@ -160,7 +170,7 @@ Instead, I propose a strategy of *always staying close to perfect performance*.
 
 1. Introduce challenges incrementally, such as by removing each simplifying assumption or reducing resources available to the method. Stop when the performance significantly drops from the "perfect" level and devise a specific solution to address the gap. Once the performance is reasonably good again, move on to introduce additional challenges, iterating this process.
 
-1. Conclude either when a realistic problem setup with reasonable performance is achieved, or when maintaining reasonable performance becomes unfeasible under increased difficulty. In both cases, report the findings and outcomes to the audience as your contribution.
+1. Conclude either when a realistic problem setup with reasonable performance is achieved, or when maintaining reasonable performance becomes infeasible under increased difficulty. In both cases, report the findings and outcomes to the audience as your contribution.
 
 The benefit of this approach is that it breaks a larger problem into manageable parts. Instead of tackling multiple challenges at once, this method isolates each issue, allowing you to develop targeted solutions. It prevents the inefficient “throwing solutions at a problem” approach. This is also similar to debugging software: each commit (solution) must pass tests (achieve close-to-perfect performance) before being merged into the main branch (advancing to more challenging problems).
 
