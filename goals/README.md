@@ -44,9 +44,9 @@
 
 **5-year goal (2022-2027)**
 
-- Get AI to the next level: Scalable Trustworthy AI (STAI) @ University of Tübingen
-    - People started to care about the trustworthiness of AI.
-    - But the techniques are, by and large, being verified at a smaller scale.
+- Get AI to the next level: Scalable Trustworthy AI (STAI)
+    - Trustworthiness of AI is one of the major blockers for AI to be a game-changer in productivity.
+    - Current techniques are, by and large, being verified at a smaller scale.
     - How to bridge the gap between the large-scale needs and the current trustworthiness technology?
 - Learn to run multiple research projects in parallel, efficiently.
     - 10 PhD students and 5 postdocs/research scientists.
@@ -67,7 +67,38 @@
     - Making policies and resolving conflicts.
 - Stay fit.
 
-**1-year goal (2024)**
+
+**1-year goal (2026)**
+
+- Manage the Scalable Trustworthy AI (STAI) group.
+    - Recruit 4 PhD students, 4 MSc students, and 1 postdoc.
+    - Manage group activities in Germany and Korea.
+    - Make sure everyone is healthy.
+    - First PhD graduates.
+    - 7-digit funding annually.
+- Science
+    - Make 5 oral-quality submissions.
+- Advising
+    - Keep the average time to first paper below 1 year, without any shortcuts like writing the whole paper for the students.
+    - 1 hour per week per student to think about their research & career.
+- Business
+    - First revenue from two products (ResearchTrend.AI and another).
+- PR and teaching
+    - Organise 2 international events (e.g. workshops) related to STAI.
+    - Share ideas for data-centric trustworthy ML through external activities (social media, talks, etc.).
+    - Teach 2 courses/year.
+- Stay fit: 2.5 hours/week of exercise.
+
+
+<details>
+  <summary>2025 goals</summary>
+
+  Skipped - sorry!
+
+</details>
+
+<details>
+  <summary>2024 goals</summary>
 
 - Manage the Scalable Trustworthy AI (STAI) group.
     - Recruit XX PhD students and XX postdoc.
@@ -87,6 +118,9 @@
     - Share ideas for data-centric trustworthy ML through external activities (social media, talks, etc.).
 - Baby
 - Stay fit: Walk every day (2 hours/day) and start playing Tennis.
+
+</details>
+
 
 <details>
   <summary>2023 goals</summary>
